@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : chaumont
+- prénom : roméo
+- URL Netlify : https://amazing-gumption-e9c5e1.netlify.app/
 
 # Travail
 
